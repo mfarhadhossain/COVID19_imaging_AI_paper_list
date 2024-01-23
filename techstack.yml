@@ -1,0 +1,20 @@
+repo_name: Frdhsn/COVID19_imaging_AI_paper_list
+report_id: 1ab13c64149879083403f5b58f92afbf
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T18:54:49+00:00'
+requested_by: HzFu
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Frdhsn/COVID19_imaging_AI_paper_list
+  detection_source: Repo Metadata
